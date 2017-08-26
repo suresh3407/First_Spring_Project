@@ -14,3 +14,6 @@ logging:
         file: "%d{yyyy-MM-dd HH:mm:ss} - %msg%n"
     file: C:\\Temp\\demo.log
 
+Import-class-path:
+    fileDirectory: E:\APTECH2
+    
